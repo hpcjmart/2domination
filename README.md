@@ -6,4 +6,4 @@ Published in :
 
 - Journal of Supercomputing: The Journal of Supercomputing publishes papers on the technology, architecture and systems, algorithms, languages and programs, performance measures and methods, and applications of all aspects of supercomputing.
 
-- HPC acceleration of large (min, +) matrix products to compute domination‑type parameters in graphs Ester M. Garzón. José Antonio Martínez. Juan José Moreno. María Luz Puertas. DOI: https://doi.org/10.1007/s11227-022-04574-5
+- HPC acceleration of large (min, +) matrix products to compute domination‑type parameters in graphs. Ester M. Garzón. José Antonio Martínez. Juan José Moreno. María Luz Puertas. DOI: https://doi.org/10.1007/s11227-022-04574-5
